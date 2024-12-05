@@ -59,7 +59,6 @@ public class ChildrenSumBT {
                 q.add(cur.right);
             }
 
-
         }
 
         return 1;
