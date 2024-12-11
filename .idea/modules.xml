@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BST/BST.iml" filepath="$PROJECT_DIR$/BST/BST.iml" />
       <module fileurl="file://$PROJECT_DIR$/binaryTree.iml" filepath="$PROJECT_DIR$/binaryTree.iml" />
     </modules>
   </component>
